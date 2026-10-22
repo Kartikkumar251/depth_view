@@ -1,0 +1,7 @@
+# Depth View — 3D Computer Vision & Machine Learning Dependencies
+pyrealsense2>=2.50.0
+open3d>=0.17.0
+numpy>=1.23.0
+opencv-python>=4.7.0
+pandas>=1.5.0
+scipy>=1.9.0

@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Output artifacts
+outputs/
+tests/test_outputs/
+*.ply
+*.csv
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
